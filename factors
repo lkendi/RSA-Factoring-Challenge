@@ -10,11 +10,8 @@ def factorize(num):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
-        print("Usage: factors <file>")
-        sys.exit(1)
     with open(sys.argv[1], 'r') as file:
         for line in file:
             n = int(line.strip())
             p, q = factorize(n)
-            print(f"{n}={p}*{q}")
+            print(f"{n}={q}*{p}")
