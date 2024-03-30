@@ -3,7 +3,7 @@ import sys
 
 
 def factorize(num):
-    for i in range(2, num):
+    for i in range(2, int(num ** 0.5) + 1):
         if (num % i == 0):
             return i, num//i
     return None, None
@@ -13,8 +13,7 @@ if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("Usage: factors <file>")
         sys.exit(1)
-    filename = sys.argv[1]
-    with open(filename, 'r') as file:
+    with open(sys.argv[1], 'r') as file:
         for line in file:
             n = int(line.strip())
             p, q = factorize(n)
