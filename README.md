@@ -5,10 +5,10 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 This project is NOT mandatory at all. It is 100% optional. Doing any part of this project will add a project grade of over 100% to your average. Your score won’t get hurt if you don’t do it, but if your current average is greater than your score on this project, your average might go down. Have fun!
 
 ## Resources
-[RSA](https://intranet.alxswe.com/rltoken/VvijGiyWnPt8LDZjICgl1w)
-[How does HTTPS provide security?](https://intranet.alxswe.com/rltoken/vNd9XWDEu1mgexyIGDMaXQ)
-[Prime Factorization](https://intranet.alxswe.com/rltoken/kYixcru2uFRtLzb29NjiHg)
-[Why RSA?](https://intranet.alxswe.com/rltoken/kYixcru2uFRtLzb29NjiHg)
+- [RSA](https://intranet.alxswe.com/rltoken/VvijGiyWnPt8LDZjICgl1w)
+- [How does HTTPS provide security?](https://intranet.alxswe.com/rltoken/vNd9XWDEu1mgexyIGDMaXQ)
+- [Prime Factorization](https://intranet.alxswe.com/rltoken/kYixcru2uFRtLzb29NjiHg)
+- [Why RSA?](https://intranet.alxswe.com/rltoken/kYixcru2uFRtLzb29NjiHg)
 
 ## Requirements
 ### General
