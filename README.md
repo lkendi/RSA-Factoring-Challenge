@@ -5,10 +5,10 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 This project is NOT mandatory at all. It is 100% optional. Doing any part of this project will add a project grade of over 100% to your average. Your score won’t get hurt if you don’t do it, but if your current average is greater than your score on this project, your average might go down. Have fun!
 
 ## Resources
-[RSA] (https://intranet.alxswe.com/rltoken/VvijGiyWnPt8LDZjICgl1w)
-[How does HTTPS provide security?] (https://intranet.alxswe.com/rltoken/vNd9XWDEu1mgexyIGDMaXQ)
-[Prime Factorization] (https://intranet.alxswe.com/rltoken/kYixcru2uFRtLzb29NjiHg)
-[Why RSA?] (https://intranet.alxswe.com/rltoken/kYixcru2uFRtLzb29NjiHg)
+[RSA](https://intranet.alxswe.com/rltoken/VvijGiyWnPt8LDZjICgl1w)
+[How does HTTPS provide security?](https://intranet.alxswe.com/rltoken/vNd9XWDEu1mgexyIGDMaXQ)
+[Prime Factorization](https://intranet.alxswe.com/rltoken/kYixcru2uFRtLzb29NjiHg)
+[Why RSA?](https://intranet.alxswe.com/rltoken/kYixcru2uFRtLzb29NjiHg)
 
 ## Requirements
 ### General
@@ -72,8 +72,8 @@ sys 0m0.001s
 julien@ubuntu:~/factors$
 ```
 #### Repo:
-GitHub repository: RSA-Factoring-Challenge
-File: factors
+- GitHub repository: RSA-Factoring-Challenge
+- File: factors
 
 ### 1. RSA Factoring Challenge
 RSA Laboratories states that: for each RSA number n, there exist prime numbers p and q such that
@@ -86,7 +86,7 @@ This task is the same as task 0, except:
 - There is only one number in the files
 How far can you go in less than 5 seconds?
 
-- Read: [RSA Factoring Challenge] (https://intranet.alxswe.com/rltoken/Cn9Lq_kKNpNx4dmvFMuwgQ)
+- Read: [RSA Factoring Challenge](https://intranet.alxswe.com/rltoken/Cn9Lq_kKNpNx4dmvFMuwgQ)
 
 ```bash
 julien@ubuntu:~/RSA Factoring Challenge$ cat tests/rsa-1
